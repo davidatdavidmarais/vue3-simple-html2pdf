@@ -1,6 +1,6 @@
 <script>
 import jsPDF from 'jspdf'
-import html2pdf from 'html2pdf.js'
+import {html2pdf} from 'html2pdf.js'
 
 import { h } from 'vue'
 
