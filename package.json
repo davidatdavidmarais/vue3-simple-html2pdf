@@ -31,7 +31,7 @@
     "url": "https://github.com/sango-tech/vue3-simple-html2pdf"
   },
   "dependencies": {
-    "html2pdf.js": "^0.9.3",
+    "html2pdf.js": "^0.10.2",
     "jspdf": "^1.4.1",
     "pdf-lib": "^1.6.0",
     "downloadjs": "^1.4.7"
